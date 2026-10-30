@@ -1,0 +1,8 @@
+item_id	title	collection	expected_pages	selected_scan_id	completed_at	pages_scanned	status
+MS-A17	Tide Almanac	Maritime	12	SC-101	2026-07-01T11:00Z	12	CERTIFIED
+MS-B04	Orchard Ledger	Rural	8	NONE	NONE	NONE	PENDING
+MS-C22	Lantern Notes	Civic	15	SC-111	2026-07-06T14:20Z	15	CERTIFIED
+MS-D09	Weaver Patterns	Textile	6	SC-106	2026-07-02T08:30Z	6	CERTIFIED
+MS-E31	Winter Herbarium	Natural	10	NONE	NONE	NONE	PENDING
+MS-F12	Foundry Log	Industrial	9	NONE	NONE	NONE	PENDING
+MS-G08	Canal Petitions	Civic	5	SC-110	2026-07-05T07:00Z	5	CERTIFIED
